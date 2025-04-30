@@ -9,7 +9,7 @@ interface DocumentationContentProps {
 
 // This is a placeholder component that redirects to GitHub documentation
 export function DocumentationContent({ path }: DocumentationContentProps) {
-  const githubDocsUrl = "https://github.com/yourusername/security-basics/tree/main/docs"
+  const githubDocsUrl = "https://github.com/Jrgil20/SecurityBasics/tree/main/docs"
 
   return (
     <div className="flex flex-col items-center justify-center p-8 text-center">

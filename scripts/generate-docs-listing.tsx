@@ -8,7 +8,7 @@ import path from "path"
 
 const DOCS_DIR = path.join(process.cwd(), "docs")
 const OUTPUT_FILE = path.join(DOCS_DIR, "file-listing.md")
-const GITHUB_REPO = "https://github.com/yourusername/security-basics/blob/main/docs"
+const GITHUB_REPO = "https://github.com/Jrgil20/SecurityBasics/blob/main/docs"
 
 // Function to recursively get all markdown files
 function getMarkdownFiles(dir: string, baseDir = ""): string[] {

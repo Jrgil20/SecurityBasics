@@ -12,7 +12,7 @@ interface DocumentationViewerProps {
 
 // This is a placeholder component that redirects to GitHub documentation
 export function DocumentationViewer({ path }: DocumentationViewerProps) {
-  const githubDocsUrl = "https://github.com/yourusername/security-basics/tree/main/docs"
+  const githubDocsUrl = "https://github.com/Jrgil20/SecurityBasics/tree/main/docs"
 
   // Redirect to GitHub on mount
   if (typeof window !== "undefined") {

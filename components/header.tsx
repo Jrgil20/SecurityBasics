@@ -14,7 +14,7 @@ export function Header() {
   const [isOpen, setIsOpen] = useState(false)
 
   // GitHub documentation URL
-  const githubDocsUrl = "https://github.com/yourusername/security-basics/tree/main/docs"
+  const githubDocsUrl = "https://github.com/Jrgil20/SecurityBasics/tree/main/docs"
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">

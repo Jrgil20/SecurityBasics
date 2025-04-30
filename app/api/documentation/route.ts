@@ -5,7 +5,7 @@ export async function GET(request: Request) {
   const path = url.searchParams.get("path")
 
   // Construct GitHub URL
-  const githubBaseUrl = "https://github.com/yourusername/security-basics/tree/main/docs"
+  const githubBaseUrl = "https://github.com/Jrgil20/SecurityBasics/tree/main/docs"
   const redirectUrl = path ? `${githubBaseUrl}/${path}.md` : githubBaseUrl
 
   return NextResponse.json({
