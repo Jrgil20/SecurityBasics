@@ -71,6 +71,8 @@ Security Basics también sirve como prueba de concepto de "Vibe Coding" - un enf
 - Estructuración e integración automatizada de código
 - Optimización y depuración guiada por IA
 
+Puedes ver el proceso de diseño inicial en este [chat de v0.dev](https://v0.dev/chat/security-education-platform-n4BB4ciBMGi).
+
 Este enfoque representa un cambio paradigmático en el desarrollo de software, donde la barrera de entrada técnica se reduce significativamente, permitiendo que personas sin experiencia en programación tradicional puedan materializar sus ideas de aplicaciones.
 
 ## 📄 Licencia
