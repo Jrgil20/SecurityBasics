@@ -3,6 +3,8 @@ export const translations = {
     // Navigation
     blog: "Blog",
     toggleTheme: "Toggle theme",
+    documentation: "Documentation on GitHub",
+    viewDocumentation: "View Documentation on GitHub",
 
     // Language switcher
     language: "Language",
@@ -11,6 +13,8 @@ export const translations = {
 
     // Hero section
     heroTitle: "Security Basics",
+    securityBasics: "Security Basics",
+    home: "Home",
     heroSubtitle: "Learn how to protect yourself in the digital world",
     getStarted: "Get Started",
     learnMore: "Learn More",
@@ -104,11 +108,18 @@ export const translations = {
     startQuiz: "Start Quiz",
     nextQuestion: "Next Question",
     seeResults: "See Results",
+
+    // Common
+    common: {
+      back: "Back",
+    },
   },
   es: {
     // Navegación
     blog: "Blog",
     toggleTheme: "Cambiar tema",
+    documentation: "Documentación en GitHub",
+    viewDocumentation: "Ver Documentación en GitHub",
 
     // Selector de idioma
     language: "Idioma",
@@ -117,6 +128,8 @@ export const translations = {
 
     // Sección de héroe
     heroTitle: "Fundamentos de Seguridad",
+    securityBasics: "Fundamentos de Seguridad",
+    home: "Inicio",
     heroSubtitle: "Aprende a protegerte en el mundo digital",
     getStarted: "Comenzar",
     learnMore: "Saber más",
@@ -210,5 +223,10 @@ export const translations = {
     startQuiz: "Comenzar Cuestionario",
     nextQuestion: "Siguiente Pregunta",
     seeResults: "Ver Resultados",
+
+    // Common
+    common: {
+      back: "Volver",
+    },
   },
 }
